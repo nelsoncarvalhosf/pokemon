@@ -60,7 +60,6 @@ body{
   bottom: 10px;
   width: auto;
   height: 80px;
-  opacity: .5;
 }
 .results__title {
   margin: 0 0 10px;
@@ -112,7 +111,7 @@ footer{
   padding: 20px 0;
   position: fixed;
   width: 100%;
-  bottom: 170px;
+  bottom: 0;
 }
 footer a{
   text-decoration: none;
